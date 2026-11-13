@@ -1,0 +1,8 @@
+1. Kör main.py två gånger. Blir de första tio värdena likadana?
+nej
+2. Ändra antalet genererade värden från 100 till 20. Vad ska len(data) visa? Kontrollera.
+   Den visar hur mycket data man vill ha i variabeln data_analyze
+Ändra intervallet till 50–60. Kontrollera att de genererade värdena ligger inom intervallet. Gör de det?
+Ja
+Återställ därefter till 100 värden mellan 0 och 100. Ser du förväntade värden?
+Ja 
